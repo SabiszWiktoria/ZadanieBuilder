@@ -1,0 +1,14 @@
+C:\Users\wikiniki\source\repos\HtmlBuilder\HtmlBuilder\bin\Debug\netcoreapp3.1\HtmlBuilder.exe
+C:\Users\wikiniki\source\repos\HtmlBuilder\HtmlBuilder\bin\Debug\netcoreapp3.1\HtmlBuilder.deps.json
+C:\Users\wikiniki\source\repos\HtmlBuilder\HtmlBuilder\bin\Debug\netcoreapp3.1\HtmlBuilder.runtimeconfig.json
+C:\Users\wikiniki\source\repos\HtmlBuilder\HtmlBuilder\bin\Debug\netcoreapp3.1\HtmlBuilder.runtimeconfig.dev.json
+C:\Users\wikiniki\source\repos\HtmlBuilder\HtmlBuilder\bin\Debug\netcoreapp3.1\HtmlBuilder.dll
+C:\Users\wikiniki\source\repos\HtmlBuilder\HtmlBuilder\bin\Debug\netcoreapp3.1\HtmlBuilder.pdb
+C:\Users\wikiniki\source\repos\HtmlBuilder\HtmlBuilder\obj\Debug\netcoreapp3.1\HtmlBuilder.csprojAssemblyReference.cache
+C:\Users\wikiniki\source\repos\HtmlBuilder\HtmlBuilder\obj\Debug\netcoreapp3.1\HtmlBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wikiniki\source\repos\HtmlBuilder\HtmlBuilder\obj\Debug\netcoreapp3.1\HtmlBuilder.AssemblyInfoInputs.cache
+C:\Users\wikiniki\source\repos\HtmlBuilder\HtmlBuilder\obj\Debug\netcoreapp3.1\HtmlBuilder.AssemblyInfo.cs
+C:\Users\wikiniki\source\repos\HtmlBuilder\HtmlBuilder\obj\Debug\netcoreapp3.1\HtmlBuilder.csproj.CoreCompileInputs.cache
+C:\Users\wikiniki\source\repos\HtmlBuilder\HtmlBuilder\obj\Debug\netcoreapp3.1\HtmlBuilder.dll
+C:\Users\wikiniki\source\repos\HtmlBuilder\HtmlBuilder\obj\Debug\netcoreapp3.1\HtmlBuilder.pdb
+C:\Users\wikiniki\source\repos\HtmlBuilder\HtmlBuilder\obj\Debug\netcoreapp3.1\HtmlBuilder.genruntimeconfig.cache

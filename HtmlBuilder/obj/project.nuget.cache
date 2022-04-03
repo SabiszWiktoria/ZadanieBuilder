@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+jKd2oH/ehL+BUSucGTfDIvDvpochmJrAO1OR7neZKfTkox37DnanF8cfVYFBIPPs7IsIB1gcQJZe87g7o7eFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wikiniki\\source\\repos\\HtmlBuilder\\HtmlBuilder\\HtmlBuilder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wikiniki\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
